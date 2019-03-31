@@ -6,6 +6,12 @@
   color: $primary !important;
 }
 
+.social-icons{
+  .list-inline-item{
+    margin-top: .5rem;
+  }
+ 
+}
 a {
   color: $primary;
   &:hover,
