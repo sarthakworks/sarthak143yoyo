@@ -1,5 +1,14 @@
 // Global styling for this template
-
+// html {
+//   scroll-behavior: smooth;
+// }
+// .container-fluid {
+//   overflow:scroll;
+//   scroll-snap-type: y mandatory;
+//   section {
+//     scroll-snap-align: start;
+// }
+// }
 body {
   @include body-font;
   padding-top: 54px;
